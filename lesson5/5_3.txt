@@ -1,0 +1,10 @@
+Ivanov 60000
+Petrov 50000
+Sidorov 70000
+Qustoff 10000
+Bobroff 20000
+Durov 10000
+Ready 10000
+Gora 20000
+Knop 10000
+Sin 10000
